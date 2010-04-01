@@ -3,4 +3,4 @@ Daemon Addon for Node.js
 To build this module, type:
 > node-waf configure build
 
-For more information, read here: http://slashed.posterous.com/writing-daemons-in-javascript-with-nodejs-0
+For more examples, read here: http://slashed.posterous.com/writing-daemons-in-javascript-with-nodejs-0
