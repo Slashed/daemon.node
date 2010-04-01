@@ -1,0 +1,6 @@
+Daemon Addon for Node.js
+
+To build this module, type:
+> node-waf configure build
+
+Read
